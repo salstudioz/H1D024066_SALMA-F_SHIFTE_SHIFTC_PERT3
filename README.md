@@ -17,7 +17,7 @@ Repositori ini berisi implementasi **sistem inferensi fuzzy Mamdani** menggunaka
 ├── studi_kasus_2_kepuasan_pelayanan.py
 
 └── README.md
-```
+
 
 ## Prasyarat
 
