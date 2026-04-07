@@ -13,11 +13,13 @@ Repositori ini berisi implementasi **sistem inferensi fuzzy Mamdani** menggunaka
 
 ```
 ├── studi_kasus_1_udin_petshop.py
+
 ├── studi_kasus_2_kepuasan_pelayanan.py
+
 └── README.md
 ```
 
-## ⚙️ Prasyarat
+## Prasyarat
 
 Pastikan Python 3.7+ terinstal, kemudian install pustaka yang dibutuhkan:
 
