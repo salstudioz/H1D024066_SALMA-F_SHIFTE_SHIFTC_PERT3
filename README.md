@@ -27,7 +27,7 @@ Pastikan Python 3.7+ terinstal, kemudian install pustaka yang dibutuhkan:
 pip install numpy scikit-fuzzy matplotlib
 ```
 
-## 🚀 Cara Menjalankan
+##  Cara Menjalankan
 
 ### Studi Kasus 1 – Udin Pet Shop
 ```bash
@@ -48,7 +48,7 @@ Kategori: Cukup Memuaskan
 ```
 (Muncul plot kurva output)
 
-## 📌 Penjelasan Singkat
+##  Penjelasan Singkat
 
 ### Studi Kasus 1
 - **Input:**  
@@ -67,16 +67,3 @@ Kategori: Cukup Memuaskan
 - **Aturan:** 81 aturan (3⁴) dibangkitkan secara otomatis berdasarkan total skor.  
 - **Data uji:** `[80, 60, 50, 90]` → menghasilkan skor ~214,82 (cukup memuaskan).
 
-## 📚 Referensi
-
-- Modul Praktikum Kecerdasan Buatan – Logika Fuzzy 2  
-- Zadeh, L.A. (1965). Fuzzy sets.  
-- Mamdani, E.H. & Assilian, S. (1975).  
-- [scikit-fuzzy documentation](https://pythonhosted.org/scikit-fuzzy/)
-
-## 📄 Lisensi
-
-Dokumen ini untuk keperluan edukasi praktikum kecerdasan buatan.
-```
-
-Simpan file ini sebagai `README.md` di direktori yang sama dengan kedua file Python.
