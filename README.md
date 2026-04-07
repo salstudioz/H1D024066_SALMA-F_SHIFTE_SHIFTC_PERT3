@@ -1,5 +1,3 @@
-Berikut adalah file `README.md` yang menjelaskan kedua studi kasus logika fuzzy Mamdani, cara instalasi, dan cara menjalankan kode.
-
 ```markdown
 # Implementasi Logika Fuzzy Mamdani – Studi Kasus Udin Pet Shop & Evaluasi Kepuasan Pelayanan
 
