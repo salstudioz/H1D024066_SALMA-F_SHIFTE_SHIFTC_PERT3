@@ -11,9 +11,9 @@ Repositori ini berisi implementasi **sistem inferensi fuzzy Mamdani** menggunaka
 
 ## 📁 Struktur File
 
-├── studi_kasus_1_udin_petshop.py
+├── tokohewan.py
 
-├── studi_kasus_2_kepuasan_pelayanan.py
+├── pelayanan.py
 
 └── README.md
 
