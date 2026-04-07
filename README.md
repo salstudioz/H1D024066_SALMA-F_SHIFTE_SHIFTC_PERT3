@@ -1,4 +1,4 @@
-```markdown
+
 # Implementasi Logika Fuzzy Mamdani – Studi Kasus Udin Pet Shop & Evaluasi Kepuasan Pelayanan
 
 Repositori ini berisi implementasi **sistem inferensi fuzzy Mamdani** menggunakan Python dan pustaka `scikit-fuzzy` untuk dua studi kasus:
@@ -11,7 +11,6 @@ Repositori ini berisi implementasi **sistem inferensi fuzzy Mamdani** menggunaka
 
 ## 📁 Struktur File
 
-```
 ├── studi_kasus_1_udin_petshop.py
 
 ├── studi_kasus_2_kepuasan_pelayanan.py
